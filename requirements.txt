@@ -1,0 +1,11 @@
+streamlit
+pymongo
+opencv-python-headless
+pyzbar
+tensorflow
+ultralytics
+pandas
+matplotlib
+seaborn
+numpy
+scikit-learn
